@@ -6,6 +6,8 @@ authors = ["diodonfrost <diodon.frost@diodonfrost.me>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+"discord.py" = "^1.3.3"
+python-dotenv = "^0.12.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
